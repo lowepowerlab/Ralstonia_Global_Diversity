@@ -10,7 +10,7 @@ Scientific knowledge about *Ralstonia* diversity, host range, and geographic loc
 
 ## Diversity/Taxonomy of *Ralstonia*
 
-[!image](images/ralsto_species_phylo_seq.png)
+![image](images/ralsto_species_phylo_seq.png)
 
 The current classification scheme for Ralstonia is based on relative similarity of DNA sequences in the strains' genomes. *Ralstonia* is considered a species complex, i.e. a group of species that are closely inter-related. There are three formal species in the *Ralstonia* species complex: *R. solanacearum*, *R. pseudosolanacearum*, and *R. syzygii*. These three major divisions were recognized by Philippe Prior and Mark Fegan who built on earlier DNA-based phylogenetic groupings proposed by Doug Cook and Luis Sequiera. The three species were named in a 2015 publication by Safni et al. 
 
