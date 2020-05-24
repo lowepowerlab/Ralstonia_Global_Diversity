@@ -1,6 +1,8 @@
 # Global Diversity of plant pathogenic *Ralstonia* strains
 Curated by UC Davis - Global Disease Biology Students
 
+**[Known Ralstonia diversity, host range, and locations](files/Ralstonia_diversity_hosts_locations.xls)
+
 ## Contributors:
 Kyle Chipman, Spring 2020
 
@@ -36,9 +38,7 @@ Email Dr. Tiffany Lowe-Power and ask whether she will advise you for your thesis
 [Link to the chapter](files/FeganPrior2005.pdf)
 
 ### Download the Spreadsheet
-[Link to the spreadsheet](files/Ralstonia_diversity_hosts_locations.xls)
-
-Save this on your computer.  To avoid losing your work in case your laptop dies or is stolen, I *strongly* recommend that you keep the file in folder that is automatically backed up to Box.com or Google Drive. 
+Save the spreadsheet (above) on your computer.  To avoid losing your work in case your laptop dies or is stolen, I *strongly* recommend that you keep the file in folder that is automatically backed up to Box.com or Google Drive. 
 
 Explore the spreadsheet on your own.  Try to figure out how it is organized.  Then set up a meeting with Dr. Lowe-Power or a member of her lab for them to walk you through the spreadsheet. 
 
