@@ -36,7 +36,7 @@ Email Dr. Tiffany Lowe-Power and ask whether she will advise you for your thesis
 [Link to the chapter](files/FeganPrior2005.pdf)
 
 ### Download the Spreadsheet
-[Link to the spreadsheet]Ralstonia_diversity_hosts_locations.xls)
+[Link to the spreadsheet](files/Ralstonia_diversity_hosts_locations.xls)
 
 Save this on your computer.  To avoid losing your work in case your laptop dies or is stolen, I *strongly* recommend that you keep the file in folder that is automatically backed up to Box.com or Google Drive. 
 
