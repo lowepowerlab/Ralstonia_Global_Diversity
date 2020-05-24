@@ -1,7 +1,7 @@
 # Global Diversity of plant pathogenic *Ralstonia* strains
-Curated by UC Davis - Global Disease Biology Students
+**[Known Ralstonia diversity, host range, and locations](files/Ralstonia_diversity_hosts_locations.xls)**
 
-**[Known Ralstonia diversity, host range, and locations](files/Ralstonia_diversity_hosts_locations.xls)
+Curated by UC Davis - Global Disease Biology Students
 
 ## Contributors:
 Kyle Chipman, Spring 2020
