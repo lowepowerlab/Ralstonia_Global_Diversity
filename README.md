@@ -1,5 +1,5 @@
 # Global Diversity of plant pathogenic *Ralstonia* strains
-**[Known Ralstonia diversity, host range, and locations](files/Ralstonia_diversity_hosts_locations.xls)**
+**[Spreadsheet of known Ralstonia diversity, host range, and locations](files/Ralstonia_diversity_hosts_locations.xls)**
 
 Curated by UC Davis - Global Disease Biology Students
 
@@ -13,6 +13,7 @@ Scientific knowledge about *Ralstonia* diversity, host range, and geographic loc
 ## Diversity/Taxonomy of *Ralstonia*
 
 [](images/ralsto_species_phylo_seq.png)
+Fig 1. Taxonomy of *Ralstonia*.
 
 The current classification scheme for Ralstonia is based on relative similarity of DNA sequences in the strains' genomes. *Ralstonia* is considered a species complex, i.e. a group of species that are closely inter-related. There are three formal species in the *Ralstonia* species complex: *R. solanacearum*, *R. pseudosolanacearum*, and *R. syzygii*. These three major divisions were recognized by Philippe Prior and Mark Fegan who built on earlier DNA-based phylogenetic groupings proposed by Doug Cook and Luis Sequiera. The three species were named in a 2015 publication by Safni et al. 
 
@@ -58,7 +59,24 @@ Each GDB student will *systematically* add strains from 20-30 papers to the spre
 * Before preceeding, read 3+ papers that are already in the spreadsheet and how previous students found everything.  It is important to look through not only the main body of the paper, but also the supplementary tables.  These supplemental tables usually contain all the details. 
 * Next, find 1-2 papers and add their information to the table.  Send it to Tiffany or your mentor.  She will look over the spreadsheet for mistakes.  It is best to catch these early!  Don't feel bad about the mistakes. We expect you to make some at the beginning. Then we  expect you to learn to correct them yourself. 
 * If you use the *drag-to-copy* feature of Excel, be very careful to correct Excel's mistakes. Although Excel will perfectly copy words like "tomato" to 20 rows, it likes to add "1" to any cell that ends in a number. So years might count up. The URLs to the papers might count up.  Make sure you correct these mistakes!
-*
 
+### Visualize the data
+Aggregating the raw data as tables or figures can allow us to see patterns in the data. Here are a few ways we have looked at the data:
 
+#### Compare known host ranges
 
+Collectively, *Ralstonia* strains infect hundreds of plants in dozens of botanical families. However, individual lineages have more narrow host ranges.  
+
+![host range graphs](/images/example_hostrange_graph.png)
+Fig 2. Known host ranges for two sequevars of *Ralstonia*. This figure was last rendered in 2019. 
+
+#### Geographic data
+
+This is a work in progress. This project could be taken to the next level by a GDB researcher who wants to learn to code in R / ggmap and help us develop a reproductible workflow for mapping the raw data to country distributions. 
+
+At a much less-efficient approach, students could color-in a world map in a graphic design software. 
+
+For example, here is the (likely incomplete) distribution of phylotype I sequevar 18 strains. These strains include GMI1000, which is one of the best-studied *Ralstonia* strains. 
+
+![map of phyl I seq 18 strains](/images/map_I_18.png)
+Fig 3. Distribution of phylotype I sequevar 18 *Ralstonia*. This figure was last rendered in 2019. 
