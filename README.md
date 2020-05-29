@@ -74,7 +74,7 @@ Fig 2. Known host ranges for two sequevars of *Ralstonia*. This figure was last 
 
 This is a work in progress. This project could be taken to the next level by a GDB researcher who wants to learn to code in R / ggmap and help us develop a reproductible workflow for mapping the raw data to country distributions. 
 
-At a much less-efficient approach, students could color-in a world map in a graphic design software. 
+At a much less-efficient approach, students could color-in a world map in a graphic design software or use a web interface like https://www.amcharts.com/visited_countries/
 
 For example, here is the (likely incomplete) distribution of phylotype I sequevar 18 strains. These strains include GMI1000, which is one of the best-studied *Ralstonia* strains. 
 
