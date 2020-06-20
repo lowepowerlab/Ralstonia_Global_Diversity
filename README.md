@@ -12,7 +12,10 @@ Scientific knowledge about *Ralstonia* diversity, host range, and geographic loc
 
 ## Diversity/Taxonomy of *Ralstonia*
 
-![host range graphs](/images/2020_kyle/2020_ralsto_species_phylo_seq.png)
+
+
+<img src="images/2020_kyle/2020_ralsto_species_phylo_seq.png" width="600"/>
+
 Fig 1. Taxonomy of *Ralstonia* at the Species, Phylotype, and Sequevar level. The sequevars highlighted in yellow have conflicting reports in the literature. Many of the conflicts are due to overlapping timing of paper publishing. 
 
 The current classification scheme for Ralstonia is based on relative similarity of DNA sequences in the strains' genomes. *Ralstonia* is considered a species complex, i.e. a group of species that are closely inter-related. There are three formal species in the *Ralstonia* species complex: *R. solanacearum*, *R. pseudosolanacearum*, and *R. syzygii*. These three major divisions were recognized by Philippe Prior and Mark Fegan who built on earlier DNA-based phylogenetic groupings proposed by Doug Cook and Luis Sequiera. The three species were named in a 2015 publication by Safni et al. 
@@ -76,12 +79,14 @@ At a much less-efficient approach, students could color-in a world map in a grap
 
 For example, here is the (likely incomplete) distribution of phylotype I sequevar 18 strains. These strains include GMI1000, which is one of the best-studied *Ralstonia* strains. 
 
-![map of phyl I seq 18 strains](/images/map_I_18.png | width = 300)
-Fig 3. Distribution of phylotype I sequevar 18 *Ralstonia*. This figure was last rendered in 2019. 
+<img src="images/map_I_18.png" width="500"/>
+
+Fig 2. Distribution of phylotype I sequevar 18 *Ralstonia*. This figure was last rendered in 2019. 
 
 #### Summary example: Comparing known host ranges
 
 Collectively, *Ralstonia* strains infect hundreds of plants in dozens of botanical families. However, individual lineages have more narrow host ranges.  
 
-![host range graphs](/images/example_hostrange_graph.png | width = 300)
-Fig 2. Known host ranges for two sequevars of *Ralstonia*. This figure was last rendered in 2019. 
+<img src="images/example_hostrange_graph.png" width="500"/>
+
+Fig 3. Known host ranges for two sequevars of *Ralstonia*. This figure was last rendered in 2019. 
