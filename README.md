@@ -12,8 +12,8 @@ Scientific knowledge about *Ralstonia* diversity, host range, and geographic loc
 
 ## Diversity/Taxonomy of *Ralstonia*
 
-[](images/ralsto_species_phylo_seq.png)
-Fig 1. Taxonomy of *Ralstonia*.
+![host range graphs](/images/2020_kyle/2020_ralsto_species_phylo_seq.png)
+Fig 1. Taxonomy of *Ralstonia* at the Species, Phylotype, and Sequevar level. The sequevars highlighted in yellow have conflicting reports in the literature. Many of the conflicts are due to overlapping timing of paper publishing. 
 
 The current classification scheme for Ralstonia is based on relative similarity of DNA sequences in the strains' genomes. *Ralstonia* is considered a species complex, i.e. a group of species that are closely inter-related. There are three formal species in the *Ralstonia* species complex: *R. solanacearum*, *R. pseudosolanacearum*, and *R. syzygii*. These three major divisions were recognized by Philippe Prior and Mark Fegan who built on earlier DNA-based phylogenetic groupings proposed by Doug Cook and Luis Sequiera. The three species were named in a 2015 publication by Safni et al. 
 
@@ -36,41 +36,39 @@ Email Dr. Tiffany Lowe-Power and ask whether she will advise you for your thesis
 * What are your career goal(s)?
 
 ### Read *"How complex is the Ralstonia solanacearum Species complex?"* by Fegan and Prior
-[Link to the chapter](files/FeganPrior2005.pdf)
+* [Link to the chapter](/files/FeganPrior2005.pdf)
 
 ### Download the Spreadsheet
-Save the spreadsheet (above) on your computer.  To avoid losing your work in case your laptop dies or is stolen, I *strongly* recommend that you keep the file in folder that is automatically backed up to Box.com or Google Drive. 
+* Save the spreadsheet (above) on your computer.  To avoid losing your work in case your laptop dies or is stolen, I *strongly* recommend that you keep the file in folder that is automatically backed up to Box.com or Google Drive. 
 
-Explore the spreadsheet on your own.  Try to figure out how it is organized.  Then set up a meeting with Dr. Lowe-Power or a member of her lab for them to walk you through the spreadsheet. 
+* Explore the spreadsheet on your own.  Try to figure out how it is organized.  Then set up a meeting with Dr. Lowe-Power or a member of her lab for them to walk you through the spreadsheet. 
 
-For your practicum, I ask that you add information from at least 25 papers into the spreadsheet.  Then we will discuss meta-analyses that you can do to for your report. 
+* For your practicum, I ask that you add information from at least 25 papers into the spreadsheet.  Then we will discuss meta-analyses that you can do to for your report. 
 
 ### Add new information to the spreadsheet.
-You are building on the previous work by Dr. Lowe-Power and other GDB students. Teamwork, yeah!
+* You are building on the previous work by Dr. Lowe-Power and other GDB students. Teamwork, yeah!
 
-Most sequevar papers cite the original Fegan and Prior chapter. You can use Google Scholar to find papers that cite Fegan & Prior:
+* Most sequevar papers cite the original Fegan and Prior chapter. You can use Google Scholar to find papers that cite Fegan & Prior:
 
-[Google Scholar link to papers that (1) cite Fegan and Prior and (2) include the word *sequevar*](https://scholar.google.com/scholar?hl=en&scisbd=1&as_sdt=2005&sciodt=0%2C5&cites=9627009798929581998&scipsc=1&q=&btnG=). As of May 2020, 243 papers match the search criteria. 
+* [Google Scholar link to papers that (1) cite Fegan and Prior and (2) include the word *sequevar*](https://scholar.google.com/scholar?hl=en&scisbd=1&as_sdt=2005&sciodt=0%2C5&cites=9627009798929581998&scipsc=1&q=&btnG=). As of May 2020, 243 papers match the search criteria. 
 
-Each GDB student will *systematically* add strains from 20-30 papers to the spreadsheet.  
+* Each GDB student will *systematically* add strains from 20-30 papers to the spreadsheet.  
 
-**General tips*
+**General tips**
 
-* Before preceeding, read 3+ papers that are already in the spreadsheet and how previous students found everything.  It is important to look through not only the main body of the paper, but also the supplementary tables.  These supplemental tables usually contain all the details. 
+* Before proceeding, read 3+ papers that are already in the spreadsheet and how previous students found everything.  It is important to look through not only the main body of the paper, but also the supplementary tables.  These supplemental tables usually contain all the details. 
 * Next, find 1-2 papers and add their information to the table.  Send it to Tiffany or your mentor.  She will look over the spreadsheet for mistakes.  It is best to catch these early!  Don't feel bad about the mistakes. We expect you to make some at the beginning. Then we  expect you to learn to correct them yourself. 
 * If you use the *drag-to-copy* feature of Excel, be very careful to correct Excel's mistakes. Although Excel will perfectly copy words like "tomato" to 20 rows, it likes to add "1" to any cell that ends in a number. So years might count up. The URLs to the papers might count up.  Make sure you correct these mistakes!
+* Send weekly progress updates to Tiffany. Tiffany will provide feedback, look for signs of data entry mistakes, and suggest Excel and organization tricks to make work easier. 
 
-### Visualize the data
-Aggregating the raw data as tables or figures can allow us to see patterns in the data. Here are a few ways we have looked at the data:
+### Visualize and Summarize the data
+* After you have completed the data collection portion of the project, you will analyze the results by summarizing the data.  Aggregating the raw data as tables or figures can allow us to see patterns in the data. 
 
-#### Compare known host ranges
+Here are a few ways we have looked at the data. You can choose to apply the same analyses we performed previously, but we also welcome creative ideas about the data. 
 
-Collectively, *Ralstonia* strains infect hundreds of plants in dozens of botanical families. However, individual lineages have more narrow host ranges.  
+* [Kyle Chipman's visualizations in Spring 2020](2020_kyle.md)
 
-![host range graphs](/images/example_hostrange_graph.png)
-Fig 2. Known host ranges for two sequevars of *Ralstonia*. This figure was last rendered in 2019. 
-
-#### Geographic data
+####  Summary example: Geographic distributions
 
 This is a work in progress. This project could be taken to the next level by a GDB researcher who wants to learn to code in R / ggmap and help us develop a reproductible workflow for mapping the raw data to country distributions. 
 
@@ -78,5 +76,12 @@ At a much less-efficient approach, students could color-in a world map in a grap
 
 For example, here is the (likely incomplete) distribution of phylotype I sequevar 18 strains. These strains include GMI1000, which is one of the best-studied *Ralstonia* strains. 
 
-![map of phyl I seq 18 strains](/images/map_I_18.png)
+![map of phyl I seq 18 strains](/images/map_I_18.png | width = 300)
 Fig 3. Distribution of phylotype I sequevar 18 *Ralstonia*. This figure was last rendered in 2019. 
+
+#### Summary example: Comparing known host ranges
+
+Collectively, *Ralstonia* strains infect hundreds of plants in dozens of botanical families. However, individual lineages have more narrow host ranges.  
+
+![host range graphs](/images/example_hostrange_graph.png | width = 300)
+Fig 2. Known host ranges for two sequevars of *Ralstonia*. This figure was last rendered in 2019. 
