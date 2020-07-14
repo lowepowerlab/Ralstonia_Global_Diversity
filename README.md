@@ -1,4 +1,6 @@
 # Global Distribution of plant pathogenic *Ralstonia* strains
+Please cite our pre-print if this resource benefits your work: [https://www.biorxiv.org/content/10.1101/2020.07.13.189936v1](https://www.biorxiv.org/content/10.1101/2020.07.13.189936v1)
+
 **[Spreadsheet of known Ralstonia diversity, host range, and locations](files/Ralstonia_diversity_hosts_locations.xlsx)**
 
 Curated by UC Davis - Global Disease Biology Students
