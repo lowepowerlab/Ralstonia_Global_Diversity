@@ -112,5 +112,5 @@ In a "**Research Experience**" Heading on your C.V.
 * Include the start/end date, "Advisor: Dr. Tiffany Lowe-Power (Dept Plant Pathology, UC Davis)
 
 *Co-Authors only*
-In a "**Publications**" Heading on your C.V. 
-* Once Tiffany adds you as a co-author on the pre-print, you can include it on your C.V. (The goal will be to do this within 3 months from when you complete your work). Use a standard format for Scientific References to cite the BioRxiv "preprint". Pre-prints are not yet peer-reviewed. When Tiffany submits the manuscript to a peer-reviewed journal, she will email you (make sure to keep her updated on your email address). She will also email you when the final version is published in a peer-review journal. At that point, remove the pre-print from your C.V. and replace it with the final paper information.  
+In a "**Non-refereed Publications**" Heading on your C.V. 
+* Once Tiffany adds you as a co-author on the pre-print, you can include it on your C.V. (The goal will be to do this within 3 months from when you complete your work). Use a standard format for Scientific References to cite the BioRxiv "preprint". Pre-prints are not yet peer-reviewed. When Tiffany submits the manuscript to a peer-reviewed journal, she will email you (make sure to keep her updated on your email address). She will also email you when the final version is published in a peer-review journal. At that point, remove the pre-print from your C.V. and replace it with the final paper information in a section titled "Publications".  
