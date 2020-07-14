@@ -92,3 +92,25 @@ Collectively, *Ralstonia* strains infect hundreds of plants in dozens of botanic
 <img src="images/example_hostrange_graph.png" width="500"/>
 
 Fig 3. Known host ranges for two sequevars of *Ralstonia*. This figure was last rendered in 2019. 
+
+## Additional Info for GDB students 
+
+### Authorship Criteria: 
+Depending on your contributions, Tiffany will let you know whether you will be a co-author or acknowledged in the final manuscript. 
+
+Criteria:
+* **Co-authorship**: Student researchers who make a significant contribution to the database (Strains from > 25 papers with data *accurately* recorded) will be included as co-authors on a peer-reviewed manuscript. Tiffany will be the first author and corresponding author. Co-authors will be listed alphabetically by last name. 
+* **Acknowledged**: Students who contribute less reliable data from fewer papers will still be acknowledged in the final manuscript, but will not be included as authors. 
+
+### Including this project on your C.V. / resume
+Regardless of whether you contribute to the Acknowledged or Co-author level, you will develop skills in reading/analyzing the literature, in reproducible data-entry practices, and data-analysis. It makes sense to include this on your Resume or C.V.  
+
+I recommend the following information:
+
+*Authors and Acknowledged:*
+In a "**Research Experience**" Heading on your C.V. 
+* Include the start/end date, "Advisor: Dr. Tiffany Lowe-Power (Dept Plant Pathology, UC Davis)
+
+*Co-Authors only*
+In a "**Publications**" Heading on your C.V. 
+* Once Tiffany adds you as a co-author on the pre-print, you can include it on your C.V. (The goal will be to do this within 3 months from when you complete your work). Use a standard format for Scientific References to cite the BioRxiv "preprint". Pre-prints are not yet peer-reviewed. When Tiffany submits the manuscript to a peer-reviewed journal, she will email you (make sure to keep her updated on your email address). She will also email you when the final version is published in a peer-review journal. At that point, remove the pre-print from your C.V. and replace it with the final paper information.  
