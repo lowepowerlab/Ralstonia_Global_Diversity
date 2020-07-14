@@ -100,7 +100,7 @@ Depending on your contributions, Tiffany will let you know whether you will be a
 
 Criteria:
 * **Co-authorship**: Student researchers who make a significant contribution to the database (Strains from > 25 papers with data *accurately* recorded) will be included as co-authors on a peer-reviewed manuscript. Tiffany will be the first author and corresponding author. Co-authors will be listed alphabetically by last name. 
-* **Acknowledged**: Students who contribute less reliable data from fewer papers will still be acknowledged in the final manuscript, but will not be included as authors. 
+* **Acknowledged**: Students who contribute less reliable data and/or data from fewer papers will still be acknowledged in the final manuscript, but will not be included as authors. 
 
 ### Including this project on your C.V. / resume
 Regardless of whether you contribute to the Acknowledged or Co-author level, you will develop skills in reading/analyzing the literature, in reproducible data-entry practices, and data-analysis. It makes sense to include this on your Resume or C.V.  
