@@ -7,6 +7,8 @@ Curated by UC Davis - Global Disease Biology Students
 
 ## Contributors:
 Kyle Chipman, Spring 2020
+Jason Avalos, Fall 2020 - Spring 2021
+Maria Charco Munoz, Fall 2020 - Spring 2021
 
 ## Purpose
 
@@ -58,6 +60,7 @@ Email Dr. Tiffany Lowe-Power and ask whether she will advise you for your thesis
 * [Google Scholar link to papers that (1) cite Fegan and Prior and (2) include the word *sequevar*](https://scholar.google.com/scholar?hl=en&scisbd=1&as_sdt=2005&sciodt=0%2C5&cites=9627009798929581998&scipsc=1&q=&btnG=). As of May 2020, 243 papers match the search criteria. 
 
 * Each GDB student will *systematically* add strains from 20-30 papers to the spreadsheet.  
+  * As of March 2021, all Ralstonia diversity papers published between 2013-2019 are recorded in the database. Some of 2012 and 2020 are included. Papers from 2005-2012 and 2021 need to be added. 
 
 **General tips**
 
