@@ -7,7 +7,9 @@ Curated by UC Davis - Global Disease Biology Students
 
 ## Contributors:
 Kyle Chipman, Spring 2020
+
 Jason Avalos, Fall 2020 - Spring 2021
+
 Maria Charco Munoz, Fall 2020 - Spring 2021
 
 ## Purpose
@@ -18,13 +20,13 @@ Scientific knowledge about *Ralstonia* diversity, host range, and geographic loc
 
 
 
-<img src="images/2020_kyle/2020_ralsto_species_phylo_seq.png" width="600"/>
+<img src="images/ralsto_species_phylo_seq.png" width="600"/>
 
-Fig 1. Taxonomy of *Ralstonia* at the Species, Phylotype, and Sequevar level. The sequevars highlighted in yellow have conflicting reports in the literature. Many of the conflicts are due to overlapping timing of paper publishing. 
+Fig 1. Taxonomy of *Ralstonia* at the Species, Phylotype, and Sequevar level. The sequevars highlighted in red text have conflicting reports in the literature. The conflicts are due to overlapping timing of paper publishing. 
 
 The current classification scheme for Ralstonia is based on relative similarity of DNA sequences in the strains' genomes. *Ralstonia* is considered a species complex, i.e. a group of species that are closely inter-related. There are three formal species in the *Ralstonia* species complex: *R. solanacearum*, *R. pseudosolanacearum*, and *R. syzygii*. These three major divisions were recognized by Philippe Prior and Mark Fegan who built on earlier DNA-based phylogenetic groupings proposed by Doug Cook and Luis Sequiera. The three species were named in a 2015 publication by Safni et al. 
 
-The species are subdivided into **phylotypes**, and phylotypes are subdivided into **sequevars**. The major divisions are *Ralstonia solanacearum* (phylotype II, which has IIA and IIB branches), *Ralstonia pseudosolanacearum* (phylotype I and III), and *Ralstonia syzygii* (phylotype IV). Sequevar is determined by the DNA sequence of the *egl* gene, which encodes an endoglucanase that is essential for *Ralstonia's* ability to degrade plant cell walls. Sequevars are numbered based on the timeline in which they were discovered. As of 2019, there are at least 54 sequevars. 
+The species are subdivided into **phylotypes**, and phylotypes are subdivided into **sequevars**. The major divisions are *Ralstonia solanacearum* (phylotype II, which has IIA and IIB branches), *Ralstonia pseudosolanacearum* (phylotype I and III), and *Ralstonia syzygii* (phylotype IV). Sequevar is determined by the DNA sequence of the *egl* gene, which encodes an endoglucanase that is essential for *Ralstonia's* ability to degrade plant cell walls. Sequevars are numbered based on the timeline in which they were discovered. As of 2020, there are at least 60 sequevars. 
 
 ### Out-of-date naming schemes
 * *Ralstonia* was historically named “*Pseudomonas solanacearum*” and, briefly, “*Burkholderia solanacearum*”.
