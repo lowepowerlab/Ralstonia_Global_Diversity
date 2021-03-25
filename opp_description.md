@@ -20,10 +20,10 @@ RSSCdb is a database of characterized strains of Ralstonia solanacearum species 
 ## How is it developed?
 The database is organized in an Excel spreadsheet, a format that facilitates regular curation of data entry. 
 
-**If Emerson would like to adapt his scripts, this is what he wrote for his FGSCdb**: _Scripts to gather the data and prepare grid, plot and map visualizations were developed using several R packages including crosstalk for adding interactivity in the grid and map view. The main packages used were leaflet for maps, datatable for grid view and plotly for dynamic plotting. The website is constructed using the distill R package. The raw data can be downloaded in PDF or excel format._
-
 ## What’s next?
-We would like to extend the utility of this project by allowing other researches to contribute raw data to populate the global map. Get in touch (tlowepower@ucdavis.edu) to receive instructions on how to submit your data.
+Emerson M. Del Ponte will advise a student on creating an interactive dashboard to view the data, similar to his FGSCdb for tracking species and chemotypes of the Fusarium graminearum species complex: https://fgsc.netlify.app/
+
+We would like to extend the utility of the Ralstonia diversity project by allowing other researches to contribute raw data to populate the global map. Get in touch (tlowepower@ucdavis.edu) to receive instructions on how to submit your data. 
 
 Project website: rssc.netlify.app  **Emerson, are you willing to make this for the RSSCdb?**
 
