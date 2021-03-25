@@ -26,6 +26,9 @@ The database is organized in an Excel spreadsheet, a format that facilitates reg
 We would like to extend the utility of this project by allowing other researches to contribute raw data to populate the global map. Get in touch (tlowepower@ucdavis.edu) to receive instructions on how to submit your data.
 
 Project website: rssc.netlify.app  **Emerson, are you willing to make this for the RSSCdb?**
+
 Data source: https://github.com/lowepowerlab/Ralstonia_Global_Diversity
+
 Author and maintainer: Tiffany Lowe-Power and Emerson M. Del Ponte
+
 Current collaborators (raw data): 
