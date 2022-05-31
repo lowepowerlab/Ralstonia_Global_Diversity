@@ -104,7 +104,7 @@ Fig 3. Known host ranges for two sequevars of *Ralstonia*. This figure was last 
 Depending on your contributions, Tiffany will let you know whether you will be a co-author or acknowledged in the final manuscript. 
 
 Criteria:
-* **Co-authorship**: Student researchers who make a significant contribution to the database (Strains from > 25 papers with data *accurately* recorded) will be included as co-authors on a peer-reviewed manuscript. Tiffany will be the first author and corresponding author. Co-authors will be listed alphabetically by last name. 
+* **Co-authorship**: Student researchers who make a significant contribution to the database (Strains from > 20 papers with data *accurately* recorded) will be included as co-authors on a peer-reviewed manuscript. Tiffany will be the first author and corresponding author. Co-authors will be listed alphabetically by last name. 
 * **Acknowledged**: Students who contribute less reliable data and/or data from fewer papers will still be acknowledged in the final manuscript, but will not be included as authors. 
 
 ### Including this project on your C.V. / resume
