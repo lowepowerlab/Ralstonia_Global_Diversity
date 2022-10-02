@@ -3,7 +3,7 @@ Please cite our pre-print if this resource benefits your work: [https://www.bior
 
 **[Spreadsheet of known Ralstonia diversity, host range, and locations](files/Ralstonia_diversity_hosts_locations.xlsx)**
 
-Curated by UC Davis - Global Disease Biology Students
+Curated by Undergraduate Researchers in the Lowe-Power lab at UC Davis. 
 
 ## Contributors:
 Kyle Chipman, Spring 2020
@@ -12,9 +12,15 @@ Jason Avalos, Fall 2020 - Spring 2021
 
 Maria Charco Munoz, Fall 2020 - Spring 2021
 
+Darrielle Williams, Summer 2021
+
+Cloe Tom, Winter-Summer 2022
+
+Yali Bai, Summer-Fall 2022
+
 ## Purpose
 
-Scientific knowledge about *Ralstonia* diversity, host range, and geographic location is fragmented as individual papers in the publication record. Our goal is to consolidate the knowledge as a database that is frequently updated by Global Disease Biology undergraduates at UC Davis. 
+Scientific knowledge about *Ralstonia* diversity, host range, and geographic location is fragmented as individual papers in the publication record. Our goal is to consolidate the knowledge as a database that is frequently updated by undergraduate students at UC Davis. 
 
 ## Diversity/Taxonomy of *Ralstonia*
 
@@ -22,11 +28,11 @@ Scientific knowledge about *Ralstonia* diversity, host range, and geographic loc
 
 <img src="images/ralsto_species_phylo_seq.png" width="600"/>
 
-Fig 1. Taxonomy of *Ralstonia* at the Species, Phylotype, and Sequevar level. The sequevars highlighted in red text have conflicting reports in the literature. The conflicts are due to overlapping timing of paper publishing. 
+Fig 1. Taxonomy of *Ralstonia* at the Species, Phylotype, and Sequevar level. The sequevars highlighted in red and purple text have conflicting reports in the literature. The conflicts are due to overlapping timing of paper publishing. Taxonomic classification of the Ralstonia species complex at the species, phylotype and sequevar levels. Sequevars highlighted in red or purple italics are assigned to strains in conflicting phylotypes. As a note, many of the phylotype I sequevars are polyphyletic (See [Sharma et al 2022 for details](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000791)), so the Ralstonia community needs to identify a cost-effective alternative for describing diversity of these strains. The clonal lineage that cause Blood Disease of Banana (BDB) are nested within phyl. IV-10 with non BDB phyl. IV strains. 
 
 The current classification scheme for Ralstonia is based on relative similarity of DNA sequences in the strains' genomes. *Ralstonia* is considered a species complex, i.e. a group of species that are closely inter-related. There are three formal species in the *Ralstonia* species complex: *R. solanacearum*, *R. pseudosolanacearum*, and *R. syzygii*. These three major divisions were recognized by Philippe Prior and Mark Fegan who built on earlier DNA-based phylogenetic groupings proposed by Doug Cook and Luis Sequiera. The three species were named in a 2015 publication by Safni et al. 
 
-The species are subdivided into **phylotypes**, and phylotypes are subdivided into **sequevars**. The major divisions are *Ralstonia solanacearum* (phylotype II, which has IIA and IIB branches), *Ralstonia pseudosolanacearum* (phylotype I and III), and *Ralstonia syzygii* (phylotype IV). Sequevar is determined by the DNA sequence of the *egl* gene, which encodes an endoglucanase that is essential for *Ralstonia's* ability to degrade plant cell walls. Sequevars are numbered based on the timeline in which they were discovered. As of 2020, there are at least 60 sequevars. 
+The species are subdivided into **phylotypes**, and phylotypes are subdivided into **sequevars**. The major divisions are *Ralstonia solanacearum* (phylotype II, which has IIA, IIB, and IIC branches), *Ralstonia pseudosolanacearum* (phylotype I and III), and *Ralstonia syzygii* (phylotype IV). Sequevar is determined by the DNA sequence of the *egl* gene, which encodes an endoglucanase that is essential for *Ralstonia's* ability to degrade plant cell walls. Sequevars are numbered based on the timeline in which they were discovered. As of 2022, there are at least 71 sequevars. 
 
 ### Out-of-date naming schemes
 * *Ralstonia* was historically named “*Pseudomonas solanacearum*” and, briefly, “*Burkholderia solanacearum*”.
@@ -36,6 +42,8 @@ The species are subdivided into **phylotypes**, and phylotypes are subdivided in
 
 This is a work in progress!  Papers often say that the Ralstonia host range includes over 250 plant species in over 50 botanical families.  We will see what we find!
 
+As of 2022, we have identified at least 394 host species reported in the literature. 
+
 ## Methods for GDB students 
 
 ### Set up your Thesis Practicum
@@ -43,6 +51,8 @@ Email Dr. Tiffany Lowe-Power and ask whether she will advise you for your thesis
 * When is your estimated graduation date
 * Why did you choose to be a GDB major?
 * What are your career goal(s)?
+* Why are you interested in the Global Ralstonia Diversity database?
+* Mention that you read this GitHub page. 
 
 ### Read *"How complex is the Ralstonia solanacearum Species complex?"* by Fegan and Prior
 * [Link to the chapter](/files/FeganPrior2005.pdf)
